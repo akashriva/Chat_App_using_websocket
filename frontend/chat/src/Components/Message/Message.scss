@@ -1,0 +1,16 @@
+.Message{
+    display: block;
+    background-color: lightblue;
+    margin: 10px auto;
+    padding: 10px 20px ;
+    border-radius: 5px;
+    box-shadow: 0 5px 15px -5px black;
+    clear: both;
+
+    &.me{
+        color: rgb(31, 28, 70);
+        float: right;
+
+    }
+}
+
